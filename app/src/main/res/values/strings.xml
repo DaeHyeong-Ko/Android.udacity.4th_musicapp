@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="Music_Player">Music Player for U</string>
+    <string name="Category">Category</string>
+    <string name="EDM">Recently EDM List</string>
+    <string name="POP">Recently POP List</string>
+    <string name="player">playing</string>
+    <string name="Click">Go to List</string>
+    <string name="now_play">Now Play</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+</resources>
